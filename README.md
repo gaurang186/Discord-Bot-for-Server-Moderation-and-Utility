@@ -35,9 +35,3 @@ This Discord bot, developed using Python and the discord.py library, aims to enh
 
 **Acknowledgments:**
 Special thanks to the discord.py library developers and the Discord community for their contributions and support.
-
-**Contact:**
-For any inquiries or assistance regarding this Discord bot, feel free to contact the project maintainers through GitHub or Discord.
-
-**Disclaimer:**
-This Discord bot is provided as-is, without any warranties or guarantees. The maintainers are not responsible for any misuse or consequences arising from the use of this bot. Administrators should use discretion and enforce server rules accordingly.
